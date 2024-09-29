@@ -28,32 +28,33 @@ Product Category: Categories such as Furniture, Technology, and Office Supplies.
 
 ## Project Workflow
 
-### 1. Data Preprocessing
-      - Handled missing values and ensured that all columns, especially Order Date, were in the correct format for time-based analysis.
-      - Created new columns for Discount Range to simplify analysis across different discount levels (e.g., 0–10%, 10–20%, etc.).
+### Data Preprocessing
+- Handled missing values and ensured that all columns, especially Order Date, were in the correct format for time-based analysis.
+- Created new columns for Discount Range to simplify analysis across different discount levels (e.g., 0–10%, 10–20%, etc.).  
 
-2. Exploratory Data Analysis (EDA)
-  - Correlation Analysis: Analyzed the correlation between Sales, Profit, and Discount to understand relationships between these variables.
-  - Discount vs. Sales and Profit: Created visualizations to explore how discounts impact sales and profitability at different discount levels.
-  - Customer Segmentation by Discount Sensitivity: Grouped customers based on their purchase frequency in different discount ranges.
+### Exploratory Data Analysis (EDA)
+- Correlation Analysis: Analyzed the correlation between Sales, Profit, and Discount to understand relationships between these variables.
+- Discount vs. Sales and Profit: Created visualizations to explore how discounts impact sales and profitability at different discount levels.
+- Customer Segmentation by Discount Sensitivity: Grouped customers based on their purchase frequency in different discount ranges.
 
-3. Key Visualizations
-  - Correlation Heatmap: Displayed the relationships between sales, profit, and discounts.
-  - Sales and Profit by Discount Range: Visualized the effect of discount levels on sales and profit.
-  - Customer Purchase Frequency: Analyzed how frequently customers purchase based on discounts.
-  - Unique Customers by Discount Range: Explored how different discount levels attract unique customers.
-  - Sales and Profit by Product Category: Showed the impact of discounts on various product categories.
+### Key Visualizations
+- Correlation Heatmap: Displayed the relationships between sales, profit, and discounts.
+- Sales and Profit by Discount Range: Visualized the effect of discount levels on sales and profit.
+- Customer Purchase Frequency: Analyzed how frequently customers purchase based on discounts.
+- Unique Customers by Discount Range: Explored how different discount levels attract unique customers.
+- Sales and Profit by Product Category: Showed the impact of discounts on various product categories.
 
-4. Recommendations
+### Recommendations
+
 Based on the analysis, the following key recommendations are proposed:
 1. Optimal Discount Range:
-   - The 10–20% discount range is the most effective in boosting sales and maintaining profitability across most categories.
+       -  The 10–20% discount range is the most effective in boosting sales and maintaining profitability across most categories.
 2. Category-Specific Discounts:
-  - Limit discounts on high-margin products like Furniture and Technology to below 20% to avoid profit losses.
-  - For Office Supplies, discounts up to 20% may be used as higher discounts lead to losses.
+      - Limit discounts on high-margin products like Furniture and Technology to below 20% to avoid profit losses.
+      - For Office Supplies, discounts up to 20% may be used as higher discounts lead to losses.
 3. Targeted Promotions:
-  - Target high-frequency buyers with loyalty programs to increase retention and purchase frequency.
-  - Use deep discounts (40%+) selectively for deal-seeking customers or for clearance sales to offload excess inventory.
+      - Target high-frequency buyers with loyalty programs to increase retention and purchase frequency.
+      - Use deep discounts (40%+) selectively for deal-seeking customers or for clearance sales to offload excess inventory.
 
 ## Results
 
