@@ -28,9 +28,9 @@ Product Category: Categories such as Furniture, Technology, and Office Supplies.
 
 ## Project Workflow
 
-1. Data Preprocessing
-  - Handled missing values and ensured that all columns, especially Order Date, were in the correct format for time-based analysis.
-  - Created new columns for Discount Range to simplify analysis across different discount levels (e.g., 0–10%, 10–20%, etc.).
+### 1. Data Preprocessing
+      - Handled missing values and ensured that all columns, especially Order Date, were in the correct format for time-based analysis.
+      - Created new columns for Discount Range to simplify analysis across different discount levels (e.g., 0–10%, 10–20%, etc.).
 
 2. Exploratory Data Analysis (EDA)
   - Correlation Analysis: Analyzed the correlation between Sales, Profit, and Discount to understand relationships between these variables.
