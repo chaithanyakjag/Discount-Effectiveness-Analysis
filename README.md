@@ -6,14 +6,14 @@ This project aims to analyze how discounts affect sales, profitability, and cust
 
 ## Key Objectives
 1. Understand the relationship between discounts, sales, and profitability:
-  - Analyze how different discount levels impact overall sales and profit margins.
-  - Identify the optimal discount range to boost sales without leading to significant profit loss.
+    - Analyze how different discount levels impact overall sales and profit margins.
+    - Identify the optimal discount range to boost sales without leading to significant profit loss.
 2. Segment customers by discount sensitivity:
-  - Group customers based on their purchase frequency in various discount ranges.
-  - Identify which segments respond best to discount strategies and suggest targeted marketing approaches.
+    - Group customers based on their purchase frequency in various discount ranges.
+    - Identify which segments respond best to discount strategies and suggest targeted marketing approaches.
 3. Assess the impact of discounts on different product categories:
-  - Explore how discounts affect different categories (e.g., Furniture, Technology, Office Supplies) in terms of sales and profit.
-  - Recommend category-specific discount thresholds for future promotions.
+    - Explore how discounts affect different categories (e.g., Furniture, Technology, Office Supplies) in terms of sales and profit.
+    - Recommend category-specific discount thresholds for future promotions.
 
 ## Data Used
 The dataset contains the following relevant columns:
