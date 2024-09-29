@@ -48,7 +48,7 @@ Product Category: Categories such as Furniture, Technology, and Office Supplies.
 
 Based on the analysis, the following key recommendations are proposed:
 1. Optimal Discount Range:
-       - The 10–20% discount range is the most effective in boosting sales and maintaining profitability across most categories.
+    - The 10–20% discount range is the most effective in boosting sales and maintaining profitability across most categories.
            ![image](https://github.com/user-attachments/assets/dd42ec82-1ab6-4afb-8902-37e6feb346e5)
 
 2. Category-Specific Discounts:
